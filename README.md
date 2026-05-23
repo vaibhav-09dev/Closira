@@ -32,5 +32,12 @@ Generates a structured markdown report containing:
 - SOP gaps
 - Recommended next action
 
----
+## 🛠️ System Dependencies & Requirements
+
+To run this workflow pipeline locally, the following core dependencies must be installed:
+
+* `langgraph` (v0.0+) — Handles structural state-graph node management and multi-turn routing configurations.
+* `langchain-core` — Manages message object formatting (`HumanMessage`, `AIMessage`, `SystemMessage`).
+* `langchain-groq` — Facilitates real-time API client connectivity to Groq cloud inference endpoints.
+* `python-dotenv` — Safely parses environmental configuration parameters away from public commit histories.
 
