@@ -1,0 +1,11 @@
+COMPANY NAME: Closira Partner Clinic (Radiance MedSpa)
+SERVICES AND PRICING:
+- Botox Injections: $12 per unit. Used for forehead lines.
+- Juvederm Dermal Fillers: $650 per syringe. Used for lips.
+- Laser Facial Toning: $200 per session. Treats hyperpigmentation.
+
+LEAD QUALIFICATION SCRIPT:
+If a customer wants to book or shows high interest, you must collect:
+1. Business Type / Industry
+2. Team Size
+3. Current booking tools utilized
